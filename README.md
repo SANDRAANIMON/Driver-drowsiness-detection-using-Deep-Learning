@@ -19,12 +19,14 @@ An examples of image annotations of the proposed dataset:
 
 
 The example images from this dataset of open and closed eyes are shown below.
+
 ![image](https://user-images.githubusercontent.com/75678695/138558125-28c71382-ab7e-4562-a62a-d44a699ff6d6.png)
 
 
 
 
 To obtain eye images, we used the eye detector based on the histogram of oriented gradients (HOG) combined with the SVM classifier. The eye images presented in the proposed dataset can be used to train the eye detector. Examples of eye detection are shown in the following images.
+
 ![image](https://user-images.githubusercontent.com/75678695/138558156-46fcd06e-5c07-4fe8-b3dd-1445cb07e63f.png)
 
 
